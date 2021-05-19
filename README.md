@@ -1,6 +1,6 @@
 # BeautifulMailer
 
-This is the source code for **"Send HTML Emails with Attachments using FluentEmail, C# and .NET 5"** video tutorial. Feel free to clone and use.
+This is the source code for **"Send HTML Emails with Attachments using FluentEmail, C# and .NET 5"** video tutorial.  **[Click here to check it out](https://bit.ly/3ylPSHk).** Feel free to clone and use.
 
 ### Watch YouTube Video Here:
 
