@@ -17,7 +17,7 @@ You can send emails with file attachments using C# and FluentEmail. In this tuto
 1. Send plain text emails using SMTP and your free Gmail account. SMTP stands for Simple Mail Transfer protocol 
 2. Send HTML emails with images and buttons using SMTP and your free Gmail account. 
 3. Send HTML emails with the PDF file attachment using the same SMTP and your free Gmail account for sent emails. 
-4. With images and buttons using a transactional email provider API in this instance will use angry. 
+4. Send HTML emails with images and buttons using a transactional email provider API. 
 5. Send HTML emails with a PDF file attachment using a transactional email provider API and 
 6. Send a newsletter or bulk HTML emails with images using a transactional email provider. 
 
